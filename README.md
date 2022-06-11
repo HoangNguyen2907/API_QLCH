@@ -1,1 +1,1 @@
-vào db ở Model để set batabase của bạn
+Vào db ở Model để set batabase của bạn
